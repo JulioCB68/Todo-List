@@ -1,9 +1,9 @@
-<h1 align="center">Discord UI Clone.</h1>
+<h1 align="center">Todo List.</h1>
 
 <hr>
 
 <h1 align="center">
-    <img alt="Discord UI Clone" src="https://i.ibb.co/n7snRVV/Capturar.png" />
+    <img alt="Todo List" src="https://i.ibb.co/n7snRVV/Capturar.png" />
 </h1>
 
 ## 🧪 Technologies
@@ -26,4 +26,4 @@ Todo List for study purposes.
 
 ---
 
-Made with 💜 by Júlio Bento 👋🏻 [Linkedin](www.linkedin.com/in/júlio-césar-924487158)
+Made with 💜 by Júlio Bento 👋🏻 [Linkedin](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-924487158/)
